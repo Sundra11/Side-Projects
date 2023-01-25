@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    /* background-color: #BD1F36; */
+    background: #641220;
+}
+
+.wrapper {
+    /* background: #641220; */
+    border-radius: 30px;
+    background-color: #BD1F36;
+    padding: 16px 25px;
+    max-width: 410px;
+}
+
+header h1{
+    font-size: 21px;
+}
+
+header p {
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.wrapper .form {
+    margin: 20px 0 30px;
+    
+}
+
+
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+}
